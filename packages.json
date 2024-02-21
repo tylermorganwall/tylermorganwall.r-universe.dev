@@ -20,6 +20,10 @@
         "url": "https://github.com/tylermorganwall/raymolecule"
     },
     {
+        "package": "raybevel",
+        "url": "https://github.com/tylermorganwall/raybevel"
+    },
+    {
         "package": "terrainmeshr",
         "url": "https://github.com/tylermorganwall/terrainmeshr"
     },
