@@ -38,5 +38,9 @@
     {
         "package": "adjustedcranlogs",
         "url": "https://github.com/tylermorganwall/adjustedcranlogs"
+    },
+    {
+        "package": "skpr",
+        "url": "https://github.com/tylermorganwall/skpr"
     } 
 ]
