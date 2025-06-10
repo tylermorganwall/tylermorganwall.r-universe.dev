@@ -42,5 +42,17 @@
     {
         "package": "skpr",
         "url": "https://github.com/tylermorganwall/skpr"
-    } 
+    },
+    {
+        "package": "libdeflate",
+        "url": "https://github.com/tylermorganwall/libdeflate"
+    },
+    {
+        "package": "libimath",
+        "url": "https://github.com/tylermorganwall/libimath"
+    },
+    {
+        "package": "libopenexr",
+        "url": "https://github.com/tylermorganwall/libopenexr"
+    }
 ]
